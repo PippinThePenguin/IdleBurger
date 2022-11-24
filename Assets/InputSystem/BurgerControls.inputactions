@@ -1,0 +1,45 @@
+{
+    "name": "BurgerControls",
+    "maps": [
+        {
+            "name": "DefaultMap",
+            "id": "24cdb26b-d8fd-4379-9a0f-c89d38bc7f0e",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "7b9b9282-28a7-4eb0-9632-ec3c30092ba5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a8c3ef47-2359-4ac6-b9df-fd90a6aa82e6",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "be08d35c-bab1-4fb6-ad4c-c552128b8936",
+                    "path": "<Keyboard>/p",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

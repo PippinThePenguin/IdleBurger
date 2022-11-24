@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dbd00ee28610fa428020716c8dbfd87, type: 3}
+  m_Name: MainCreep
+  m_EditorClassIdentifier: 
+  name: Test1
+  SpeedPriceCreep: 0a000000230000004100000064000000af0000002c010000c2010000ee020000
+  ClickPriceCreep: 0a000000230000004100000064000000af0000002c010000c2010000ee020000
+  MoneyPriceCreep: 0a000000230000004100000064000000af0000002c010000c2010000ee020000
